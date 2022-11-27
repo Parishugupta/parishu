@@ -1,2 +1,2 @@
 # parishu
-Git int
+Git status
